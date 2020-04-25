@@ -1,0 +1,85 @@
+{'Global Quote': {'01. symbol': 'FCX', '02. open': '8.2200', '03. high': '8.6200', '04. low': '8.2000', '05. price': '8.4800', '06. volume': '34634957', '07. latest trading day': '2020-04-24', '08. previous close': '7.8100', '09. change': '0.6700', '10. change percent': '8.5787%'}}
+The current price of  8.4800
+{
+    "Global Quote": {
+        "01. symbol": "FCX",
+        "02. open": "8.2200",
+        "03. high": "8.6200",
+        "04. low": "8.2000",
+        "05. price": "8.4800",
+        "06. volume": "34634957",
+        "07. latest trading day": "2020-04-24",
+        "08. previous close": "7.8100",
+        "09. change": "0.6700",
+        "10. change percent": "8.5787%"
+    }
+}
+{'Global Quote': {'01. symbol': 'AAPL', '02. open': '277.2000', '03. high': '283.0100', '04. low': '277.0000', '05. price': '282.9700', '06. volume': '31274973', '07. latest trading day': '2020-04-24', '08. previous close': '275.0300', '09. change': '7.9400', '10. change percent': '2.8870%'}}
+The current price of  282.9700
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "277.2000",
+        "03. high": "283.0100",
+        "04. low": "277.0000",
+        "05. price": "282.9700",
+        "06. volume": "31274973",
+        "07. latest trading day": "2020-04-24",
+        "08. previous close": "275.0300",
+        "09. change": "7.9400",
+        "10. change percent": "2.8870%"
+    }
+}
+{'Global Quote': {'01. symbol': 'IVZ', '02. open': '7.4000', '03. high': '7.8500', '04. low': '7.3000', '05. price': '7.8000', '06. volume': '19486141', '07. latest trading day': '2020-04-24', '08. previous close': '7.2400', '09. change': '0.5600', '10. change percent': '7.7348%'}}
+The current price of  7.8000
+{
+    "Global Quote": {
+        "01. symbol": "IVZ",
+        "02. open": "7.4000",
+        "03. high": "7.8500",
+        "04. low": "7.3000",
+        "05. price": "7.8000",
+        "06. volume": "19486141",
+        "07. latest trading day": "2020-04-24",
+        "08. previous close": "7.2400",
+        "09. change": "0.5600",
+        "10. change percent": "7.7348%"
+    }
+}
+{'Global Quote': {'01. symbol': 'HP', '02. open': '19.3300', '03. high': '19.5500', '04. low': '17.2300', '05. price': '17.7700', '06. volume': '5791552', '07. latest trading day': '2020-04-24', '08. previous close': '19.3400', '09. change': '-1.5700', '10. change percent': '-8.1179%'}}
+The current price of  17.7700
+{
+    "Global Quote": {
+        "01. symbol": "HP",
+        "02. open": "19.3300",
+        "03. high": "19.5500",
+        "04. low": "17.2300",
+        "05. price": "17.7700",
+        "06. volume": "5791552",
+        "07. latest trading day": "2020-04-24",
+        "08. previous close": "19.3400",
+        "09. change": "-1.5700",
+        "10. change percent": "-8.1179%"
+    }
+}
+{'Global Quote': {'01. symbol': 'NCLH', '02. open': '11.3700', '03. high': '11.4800', '04. low': '10.6600', '05. price': '10.8600', '06. volume': '22157510', '07. latest trading day': '2020-04-24', '08. previous close': '11.4700', '09. change': '-0.6100', '10. change percent': '-5.3182%'}}
+The current price of  10.8600
+{
+    "Global Quote": {
+        "01. symbol": "NCLH",
+        "02. open": "11.3700",
+        "03. high": "11.4800",
+        "04. low": "10.6600",
+        "05. price": "10.8600",
+        "06. volume": "22157510",
+        "07. latest trading day": "2020-04-24",
+        "08. previous close": "11.4700",
+        "09. change": "-0.6100",
+        "10. change percent": "-5.3182%"
+    }
+}
+None
+None
+None
+None
+None
