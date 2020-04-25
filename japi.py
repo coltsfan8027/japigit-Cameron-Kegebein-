@@ -26,5 +26,5 @@ def main():
         stockSymbol = input("Enter the stock symbol in all caps: ")
 
         print(getPrice(stockSymbol), file=f)
-
+    print("Stock Quotes retrieved successfully!")
 main()
